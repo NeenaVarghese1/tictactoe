@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>new.png</file>
+        <file>../../../Downloads/file.png</file>
+        <file>../../../Downloads/save.png</file>
+        <file>../../../Downloads/copy.png</file>
+        <file>../../../Downloads/document.png</file>
+        <file>../../../Downloads/size.png</file>
+        <file>../../../Downloads/tictac.png</file>
+    </qresource>
+</RCC>
